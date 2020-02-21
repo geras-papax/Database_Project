@@ -2,7 +2,7 @@
  
 The main objective was to make a variaton of a newspaper support system both backend (sql) and frontend (gui_netbeans) connecting them with a JDBC driver.
 
-For the information as well as some additional required problems such as stored procedures and triggers [check here](/project_DBlab_2019-2020.pdf).
+For the detailed information as well as some additional required problems such as stored procedures and triggers [check here](/project_DBlab_2019-2020.pdf).
 
 <br/>
 <br/>
